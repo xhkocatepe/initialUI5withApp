@@ -1,0 +1,12 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="fc.com.ittr.sf.lms.wfe.ui.fc.controller.Wizard"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+
+			<Page title="Hakan">
+				<content>
+					<Button press="onClick">
+						
+					</Button>
+				</content>
+			</Page>
+
+</mvc:View>
